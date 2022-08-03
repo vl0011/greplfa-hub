@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hub", "hub\hub.csproj", "{AF88ACAD-C3F6-4D71-A654-1ECECBFD8195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broker", "Broker\Broker.csproj", "{C08E7591-6487-40CC-A8BC-CDB7E52C92EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokerTest", "BrokerTest\BrokerTest.csproj", "{726DC3B4-733E-42D8-8FE5-A3B7C86FCC63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF88ACAD-C3F6-4D71-A654-1ECECBFD8195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF88ACAD-C3F6-4D71-A654-1ECECBFD8195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF88ACAD-C3F6-4D71-A654-1ECECBFD8195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF88ACAD-C3F6-4D71-A654-1ECECBFD8195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08E7591-6487-40CC-A8BC-CDB7E52C92EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08E7591-6487-40CC-A8BC-CDB7E52C92EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08E7591-6487-40CC-A8BC-CDB7E52C92EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08E7591-6487-40CC-A8BC-CDB7E52C92EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726DC3B4-733E-42D8-8FE5-A3B7C86FCC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726DC3B4-733E-42D8-8FE5-A3B7C86FCC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726DC3B4-733E-42D8-8FE5-A3B7C86FCC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726DC3B4-733E-42D8-8FE5-A3B7C86FCC63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
